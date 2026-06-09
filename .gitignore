@@ -1,0 +1,9 @@
+# Logs
+*.logs
+logs/
+# OS Files
+*DS_Store
+Thumbs.db
+#Editor Files
+.vs code/
+*.swp
