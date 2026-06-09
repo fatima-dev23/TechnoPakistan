@@ -7,3 +7,5 @@ Thumbs.db
 #Editor Files
 .vs code/
 *.swp
+
+.ssh/
